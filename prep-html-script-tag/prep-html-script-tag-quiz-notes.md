@@ -8,10 +8,10 @@ After completing this exercise, you should be able to discuss or answer the foll
   The tag needed to load JavaScript scripts into an HTML document is the <script> tag.
 
 - How do you use a script tag to write JavaScript directly in the HTML document?
-  With the script tag, it embed Javascript into the document and allows Javascript scripting statements to function within the tag.
+  With the <script> tag, it embed Javascript into the document and allows Javascript scripting statements to function within the tag.
 
 - How do you use a script tag to load an external JavaScript file?
-  With the script tag, you can point to an external script file using the "src" attribute in the <script> tag.
+  With the <script> tag, you can point to an external script file using the "src" attribute in the <script> tag.
 
 ## Notes
 
