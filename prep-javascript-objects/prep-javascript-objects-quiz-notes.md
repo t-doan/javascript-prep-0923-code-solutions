@@ -5,8 +5,10 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What data types can object properties hold?
+  Objects can hold strings, numbers, booleans.
 
 - Describe the syntax (structure) of object-literals in JavaScript.
+  Name is separated from the value with a colon.The name-value pairs are divided with a comma.
 
 ## Notes
 
